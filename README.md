@@ -28,7 +28,7 @@ cd quiz-main
 
 ### Leia o Manual do Jogo 
 
-Link do Jogo: https://devjorgesousa.github.io/quiz/jogo.html
+Link do Jogo: https://dev7jorge.github.io/quiz/jogo.html
 
 Quando acessar o link citado acima, o jogador terá que escolher a alternativa correta de cada questão e clicar no botão chamado "enviar".
 

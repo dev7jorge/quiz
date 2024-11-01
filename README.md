@@ -18,7 +18,7 @@ O Wireframe deste projeto considera não apenas computadores pessoais, mas tamb�
 
 1ª Clone este repositório
 
-git clone https://github.com/devjorgesousa/quiz.git
+git clone https://github.com/dev7jorge/quiz.git
 
 2ª Acesse a pasta do projeto no Visual Studio Code após descompactar o arquivo quiz-main.zip
 
